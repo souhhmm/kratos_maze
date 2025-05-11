@@ -36,7 +36,7 @@ def generate_launch_description():
     world = os.path.join(
         get_package_share_directory('kratos_maze'),
         'worlds',
-        'maze.world'
+        'sample.world'
     )
 
     gzserver_cmd = IncludeLaunchDescription(
