@@ -16,6 +16,7 @@ setup(
         (os.path.join('share', package_name, 'worlds'), glob('worlds/*')),
         (os.path.join('share', package_name, 'models/sample'), glob('models/sample/*')),
         (os.path.join('share', package_name, 'models/maze10x10'), glob('models/maze10x10/*')),
+        (os.path.join('share', package_name, 'models/maze5x5'), glob('models/maze5x5/*')),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
