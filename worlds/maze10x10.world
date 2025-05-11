@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sdf version="1.6">
-  <world name="maze">
+  <world name="maze10x10">
 
     <include>
       <uri>model://ground_plane</uri>
@@ -43,10 +43,10 @@
       </ode>
     </physics>
 
-    <model name="maze">
+    <model name="maze10x10">
       <static>1</static>
       <include>
-        <uri>model://maze</uri>
+        <uri>model://maze10x10</uri>
       </include>
     </model>
 

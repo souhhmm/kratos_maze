@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
-  <model name='maze'>
+  <model name='maze10x10'>
     <link name='link_0'>
       <inertial>
         <mass>1</mass>
@@ -23,7 +23,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>src/kratos_maze/models/maze/maze.obj</uri>
+            <uri>src/kratos_maze/models/maze10x10/maze10x10.obj</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -44,7 +44,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>src/kratos_maze/models/maze/maze.obj</uri>
+            <uri>src/kratos_maze/models/maze10x10/maze10x10.obj</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
