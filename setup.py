@@ -28,6 +28,7 @@ setup(
     entry_points={
         'console_scripts': [
             'wall_follower = src.wall_follower:main'
+            # add your nodes here
         ],
     },
 )
