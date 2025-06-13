@@ -1,5 +1,5 @@
 # Kratos Maze
-This is a starter repository for Project Kratos' Maze Competition as part of the 2025 autonomous subsystem induction process.
+This is a starter repository for Project Kratos' Maze Solving Competition as part of the 2025 autonomous subsystem induction process.
 
 ## Prerequisites
 - [Ubuntu 22.04](https://releases.ubuntu.com/jammy/) or equivalent VM
