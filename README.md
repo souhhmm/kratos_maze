@@ -26,8 +26,10 @@ To be safe, build the package and source everytime you make a change. Or, `--sym
 There are two orthogonal simple mazes provided to you with no loops, obstacles etc.
 
 <p align="center">
-  <img src="assets/10x10white.svg" width="200" style="display:inline-block; margin-right: 20px;">
-  <img src="assets/5x5white.svg" width="200" style="display:inline-block;">
+  <img src="assets/10x10white.svg" width="200">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/5x5white.svg" width="200"><br>
+  <em>10x10 Maze &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5x5 Maze</em>
 </p>
 
 ### Launch the Maze Environment
@@ -41,9 +43,9 @@ ros2 launch kratos_maze maze10x10.launch.py # for the 10x10 maze
 You should see the Gazebo environment.
 
 <p align="center">
-  <img src="assets/gazebo5x5.png" width="500">
+  <img src="assets/gazebo5x5.png" width="500"><br>
+  <em>Gazebo Maze Environment</em>
 </p>
-
 
 ### Launch a Script
 There is a sample wall following algorithm script (based on [this](https://www.youtube.com/watch?v=1l9IMXd33K4&ab_channel=HeyYK)) provided to you. This takes ~17 mins to solve the given 10x10 maze!
