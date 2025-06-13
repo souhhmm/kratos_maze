@@ -80,4 +80,4 @@ Solve the given 10x10 maze in the fastest time possible!
 
 <hr></hr>
 
-Join the [Discord](linktodiscord) server for regular updates. Have fun!
+Join the [Discord](https://discord.gg//WWW7muQA) server for regular updates. Have fun!
