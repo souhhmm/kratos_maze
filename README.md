@@ -25,17 +25,10 @@ To be safe, build the package and source everytime you make a change. Or, `--sym
 ## How to Run
 There are two orthogonal simple mazes provided to you with no loops, obstacles etc.
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 10px;">
-  <figure style="margin: 0;">
-    <img src="assets/maze10x10.svg" style="filter: brightness(0) invert(1); width: 200px;">
-    <figcaption><em>10×10 Maze</em></figcaption>
-  </figure>
-  
-  <figure style="margin: 0;">
-    <img src="assets/maze5x5.svg" style="filter: brightness(0) invert(1); width: 200px;">
-    <figcaption><em>5×5 Maze</em></figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="assets/10x10white.svg" width="200" style="display:inline-block; margin-right: 20px;">
+  <img src="assets/5x5white.svg" width="200" style="display:inline-block;">
+</p>
 
 ### Launch the Maze Environment
 
@@ -46,12 +39,10 @@ ros2 launch kratos_maze maze10x10.launch.py # for the 10x10 maze
 ```
 
 You should see the Gazebo environment.
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 10px;">
-  <figure style="margin: 0;">
-    <img src="assets/gazebo5x5.png" style="width: 500px;">
-    <figcaption><em>Gazebo Maze Environment</em></figcaption>
-  </figure>
-</div>
+
+<p align="center">
+  <img src="assets/gazebo5x5.png" width="500">
+</p>
 
 
 ### Launch a Script
