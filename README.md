@@ -18,12 +18,6 @@ cd ros2_ws/src
 git clone https://github.com/<your_username>/kratos_maze.git
 ```
 
-Or simply,
-```bash
-cd ros2_ws/src
-git clone https://github.com/souhhmm/kratos_maze.git
-```
-
 ### Build the Package
 
 ```bash
