@@ -51,7 +51,7 @@ You should see the Gazebo environment.
   <em>Gazebo Maze Environment</em>
 </p>
 
-In case it doesn't work, remove the `kratos_maze` folder from `build/`, `install/` and `src/`, and follow all the steps once again, it should work now.
+In case it doesn't work, remove the `kratos_maze` folder from `build/`, `install/` and `src/`, and follow all the steps once again, it should work now. (you could possibly get a warning, ignore it)
 
 ### Run a Script
 There is a sample wall following algorithm script (based on [this](https://www.youtube.com/watch?v=1l9IMXd33K4&ab_channel=HeyYK)) provided to you. This takes ~17 mins to solve the given 10x10 maze! ([watch](https://youtu.be/DYmenPxvgQ0?si=1aZUr6M8rGNV7lew))
