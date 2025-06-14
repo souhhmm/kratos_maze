@@ -84,6 +84,10 @@ Solve the given 10x10 maze in the fastest time possible!
 
 3. You would be required to submit your code, along with a video of the bot solving the maze, so make sure you record the process.
 
+## Submission
+
+Link to your fork of the repo (your updated package), along with a video. Further details will be communicated soon.
+
 <hr></hr>
 
 Join the [Discord](https://discord.gg//WWW7muQA) server for regular updates. Have fun!
