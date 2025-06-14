@@ -35,8 +35,7 @@ There are two orthogonal simple mazes provided to you with no loops, obstacles e
 ### Launch the Maze Environment
 
 ```bash
-cd ros2_ws/src/kratos_maze
-ros2 launch kratos_maze maze5x5.launch.py # for the 5x5 maze
+ros2 launch kratos_maze maze5x5.launch.py   # for the 5x5 maze
 ros2 launch kratos_maze maze10x10.launch.py # for the 10x10 maze
 ```
 
