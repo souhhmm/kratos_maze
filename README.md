@@ -47,7 +47,7 @@ You should see the Gazebo environment.
   <em>Gazebo Maze Environment</em>
 </p>
 
-### Launch a Script
+### Run a Script
 There is a sample wall following algorithm script (based on [this](https://www.youtube.com/watch?v=1l9IMXd33K4&ab_channel=HeyYK)) provided to you. This takes ~17 mins to solve the given 10x10 maze! ([watch](https://youtu.be/DYmenPxvgQ0?si=1aZUr6M8rGNV7lew))
 
 Run this in another terminal. You might want to use [terminator](https://gnome-terminator.org/) emulator for multiple terminals in one window. Make sure you source in every terminal window.
