@@ -1,5 +1,5 @@
 # Kratos Maze
-This is a starter repository for Project Kratos' Maze Solving Competition as part of the 2025 Autonomous subsystem induction process.
+This is a starter repository for Project Kratos' Maze Solving Challenge as part of the 2025 Autonomous subsystem induction process.
 
 ## Prerequisites
 - [Ubuntu 22.04](https://releases.ubuntu.com/jammy/) or equivalent VM
@@ -73,7 +73,7 @@ To resolve the import errors (yellow squiggles) create a `.env` file in the root
 </details>
 
 
-## What's the competition?
+## What's the Challenge?
 
 Solve the given 10x10 maze in the fastest time possible!
 
