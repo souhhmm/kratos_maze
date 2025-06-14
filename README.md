@@ -9,6 +9,16 @@ This is a starter repository for Project Kratos' Maze Solving Competition as par
 ## Installation
 
 ### Clone the Package
+
+Forking the repo first is suggested, so that you can maintain your own repo and push changes to it. This will also be helpful for submission.
+
+```bash
+# fork the repo first
+cd ros2_ws/src
+git clone https://github.com/<your_username>/kratos_maze.git
+```
+
+Or simply,
 ```bash
 cd ros2_ws/src
 git clone https://github.com/souhhmm/kratos_maze.git
