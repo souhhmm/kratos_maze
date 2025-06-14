@@ -51,6 +51,8 @@ You should see the Gazebo environment.
   <em>Gazebo Maze Environment</em>
 </p>
 
+In case it doesn't work, remove the `kratos_maze` folder from `build/`, `install/` and `src/`, and follow all the steps once again, it should work now.
+
 ### Run a Script
 There is a sample wall following algorithm script (based on [this](https://www.youtube.com/watch?v=1l9IMXd33K4&ab_channel=HeyYK)) provided to you. This takes ~17 mins to solve the given 10x10 maze! ([watch](https://youtu.be/DYmenPxvgQ0?si=1aZUr6M8rGNV7lew))
 
@@ -78,7 +80,7 @@ Solve the given 10x10 maze in the fastest time possible!
 ### Some Rules
 1. The bot must navigate from the designated start point to finish point in the shortest time without any external intervention. No tricks allowed, for example, you can't use the outer boundary of the maze xD.
 
-2. The timer starts as soon as you run your script.
+2. The timer starts as soon as you run your final script. This does not include the time taken for any utility scripts you decide to use :).
 
 3. You would be required to submit your code, along with a video of the bot solving the maze, so make sure you record the process.
 
