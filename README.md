@@ -17,6 +17,7 @@ git clone https://github.com/souhhmm/kratos_maze.git
 ### Build the Package
 
 ```bash
+cd .. # build in the root of your workspace i.e. ros2_ws/
 colcon build --packages-select kratos_maze
 source install/setup.bash
 ```
