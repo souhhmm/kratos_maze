@@ -84,7 +84,7 @@ Solve the given 10x10 maze in the fastest time possible!
 
 ## Submission
 
-Link to your fork of the repo (your updated package), along with a video. Further details will be communicated soon.
+Link to your fork of the repo (your updated package), along with a video. [Google Form](forms.gle/qQ5oTvFYuaY6yCvq9).
 
 <hr></hr>
 
