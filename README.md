@@ -2,7 +2,7 @@
 This is a starter repository for Project Kratos' Maze Solving Challenge as part of the 2025 Autonomous subsystem induction process.
 
 ## Prerequisites
-- [Ubuntu 22.04](https://releases.ubuntu.com/jammy/) or equivalent VM
+- [Ubuntu 22.04](https://releases.ubuntu.com/jammy/)
 - [ROS 2 Humble](https://docs.ros.org/en/humble/index.html)
 - [TurtleBot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation)
 
